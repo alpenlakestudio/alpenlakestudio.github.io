@@ -1,6 +1,6 @@
 # Privacy Policy — FI Pro
 
-_Last updated: 20 May 2026_
+_Last updated: 17 October 2026_
 
 FI Pro is a financial-planning app developed by Alpenlake Studio.
 This policy describes what data the app handles and how.
@@ -15,7 +15,7 @@ The app **optionally** collects usage diagnostics (anonymous usage
 events and crash reports) to help us improve stability and decide
 which features to invest in. Diagnostics are **off by default** and
 require your explicit consent. You can toggle them at any time under
-*Assumptions → Diagnose*.
+*Profile → Diagnostics*.
 
 ## Optional diagnostics
 
@@ -34,7 +34,7 @@ acting as our data processor under Art. 28 GDPR:
 
 **Legal basis:** your consent, Art. 6 (1)(a) GDPR.
 **Retention:** Crashlytics 90 days, Analytics up to 14 months.
-**Withdraw consent at any time:** *Assumptions → Diagnose* (off).
+**Withdraw consent at any time:** *Profile → Diagnostics* (off).
 Future events stop immediately; previously collected anonymous data
 remains aggregated.
 
@@ -67,7 +67,7 @@ alpenlake.studio@gmail.com.
 
 - **Local data:** uninstall the app, or go to Android Settings → Apps
   → FI Pro → Storage → Clear storage.
-- **Diagnostics:** turn off the Diagnose toggle to stop collection;
+- **Diagnostics:** turn off the Diagnostics toggle to stop collection;
   email us to request deletion of historical diagnostic data tied to
   your installation ID.
 
@@ -84,7 +84,7 @@ alpenlake.studio@gmail.com
 
 # Datenschutzerklärung — FI Pro
 
-_Stand: 20. Mai 2026_
+_Stand: 17. Oktober 2026_
 
 FI Pro ist eine Finanzplanungs-App von Alpenlake Studio. Diese
 Erklärung beschreibt, welche Daten die App verarbeitet.
@@ -100,7 +100,7 @@ Die App erhebt **optional** Nutzungsdiagnose (anonyme
 Nutzungsereignisse und Absturzberichte), damit wir Stabilität
 verbessern und Feature-Entscheidungen treffen können. Diagnose ist
 **standardmäßig deaktiviert** und benötigt deine ausdrückliche
-Einwilligung. Du kannst sie jederzeit unter *Annahmen → Diagnose*
+Einwilligung. Du kannst sie jederzeit unter *Stammdaten → Diagnose*
 umschalten.
 
 ## Optionale Diagnose
@@ -122,7 +122,7 @@ Auftragsverarbeiter nach Art. 28 DSGVO übermittelt:
 
 **Rechtsgrundlage:** deine Einwilligung, Art. 6 Abs. 1 lit. a DSGVO.
 **Speicherdauer:** Crashlytics 90 Tage, Analytics bis zu 14 Monate.
-**Einwilligung widerrufen jederzeit:** *Annahmen → Diagnose* (aus).
+**Einwilligung widerrufen jederzeit:** *Stammdaten → Diagnose* (aus).
 Künftige Ereignisse werden sofort gestoppt; bereits erhobene anonyme
 Daten bleiben aggregiert erhalten.
 
