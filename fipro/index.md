@@ -1,6 +1,6 @@
 # Privacy Policy — FI Pro
 
-_Last updated: 18 October 2026_
+_Last updated: 21 October 2026_
 
 FI Pro is a financial-planning app for Android and iOS developed by
 Alpenlake Studio. This policy describes what data the app handles and
@@ -130,7 +130,7 @@ alpenlake.studio@gmail.com
 
 # Datenschutzerklärung — FI Pro
 
-_Stand: 18. Oktober 2026_
+_Stand: 21. Oktober 2026_
 
 FI Pro ist eine Finanzplanungs-App für Android und iOS von Alpenlake
 Studio. Diese Erklärung beschreibt, welche Daten die App verarbeitet.
