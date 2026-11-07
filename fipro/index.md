@@ -51,9 +51,12 @@ acting as our data processor under Art. 28 GDPR:
 **Retention:** Crashlytics 90 days, Analytics up to 14 months.
 **Withdraw consent at any time:** *Profile → Diagnostics* (off). No new
 usage events are collected from that moment; crash reporting stops the
-next time you start the app. Data still waiting on your device, such as
-a crash report from a time when Diagnostics was off, can be sent if you
-allow Diagnostics later. Data already collected is deleted after the
+next time you start the app. Usage data recorded before you switched off
+and not yet sent can still go out afterwards; on Android this can happen
+on its own once the device is online, even with the app closed. Other
+data still waiting on your device, such as a crash report from a time
+when Diagnostics was off, can be sent if you allow Diagnostics later.
+Data already collected is deleted after the
 retention period above, or earlier on request.
 
 If you never grant consent, no diagnostic data is sent.
@@ -187,9 +190,12 @@ und Art. 6 Abs. 6 DSG.
 **Speicherdauer:** Crashlytics 90 Tage, Analytics bis zu 14 Monate.
 **Einwilligung widerrufen jederzeit:** *Stammdaten → Diagnose* (aus).
 Ab dann werden keine neuen Nutzungsereignisse erhoben; die
-Absturzberichte enden beim nächsten Start der App. Daten, die noch auf
-deinem Gerät warten, etwa ein Absturzbericht aus der Zeit, als die
-Diagnose aus war, können gesendet werden, wenn du die Diagnose später
+Absturzberichte enden beim nächsten Start der App. Nutzungsdaten, die
+vor dem Ausschalten erfasst und noch nicht gesendet wurden, können danach
+noch übermittelt werden; auf Android kann das von selbst geschehen,
+sobald das Gerät online ist, auch bei geschlossener App. Andere Daten,
+die noch auf deinem Gerät warten, etwa ein Absturzbericht aus der Zeit,
+als die Diagnose aus war, können gesendet werden, wenn du die Diagnose später
 erlaubst. Bereits erhobene Daten werden nach der obigen Speicherdauer
 gelöscht, auf Anfrage auch früher.
 
