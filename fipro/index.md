@@ -1,6 +1,6 @@
 # Privacy Policy — FI Pro
 
-_Last updated: 21 October 2026_
+_Last updated: 7 November 2026_
 
 FI Pro is a financial-planning app for Android and iOS developed by
 Alpenlake Studio. This policy describes what data the app handles and
@@ -49,8 +49,11 @@ acting as our data processor under Art. 28 GDPR:
 
 **Legal basis:** your consent, Art. 6 (1)(a) GDPR and Art. 6 (6) FADP.
 **Retention:** Crashlytics 90 days, Analytics up to 14 months.
-**Withdraw consent at any time:** *Profile → Diagnostics* (off). Future
-events stop immediately. Data already collected is deleted after the
+**Withdraw consent at any time:** *Profile → Diagnostics* (off). No new
+usage events are collected from that moment; crash reporting stops the
+next time you start the app. Data still waiting on your device, such as
+a crash report from a time when Diagnostics was off, can be sent if you
+allow Diagnostics later. Data already collected is deleted after the
 retention period above, or earlier on request.
 
 If you never grant consent, no diagnostic data is sent.
@@ -130,7 +133,7 @@ alpenlake.studio@gmail.com
 
 # Datenschutzerklärung — FI Pro
 
-_Stand: 21. Oktober 2026_
+_Stand: 7. November 2026_
 
 FI Pro ist eine Finanzplanungs-App für Android und iOS von Alpenlake
 Studio. Diese Erklärung beschreibt, welche Daten die App verarbeitet.
@@ -183,9 +186,12 @@ Auftragsverarbeiter nach Art. 28 DSGVO übermittelt:
 und Art. 6 Abs. 6 DSG.
 **Speicherdauer:** Crashlytics 90 Tage, Analytics bis zu 14 Monate.
 **Einwilligung widerrufen jederzeit:** *Stammdaten → Diagnose* (aus).
-Künftige Ereignisse werden sofort gestoppt. Bereits erhobene Daten
-werden nach der obigen Speicherdauer gelöscht, auf Anfrage auch
-früher.
+Ab dann werden keine neuen Nutzungsereignisse erhoben; die
+Absturzberichte enden beim nächsten Start der App. Daten, die noch auf
+deinem Gerät warten, etwa ein Absturzbericht aus der Zeit, als die
+Diagnose aus war, können gesendet werden, wenn du die Diagnose später
+erlaubst. Bereits erhobene Daten werden nach der obigen Speicherdauer
+gelöscht, auf Anfrage auch früher.
 
 Ohne Einwilligung werden keine Diagnosedaten gesendet.
 
