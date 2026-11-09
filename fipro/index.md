@@ -1,6 +1,6 @@
 # Privacy Policy — FI Pro
 
-_Last updated: 7 November 2026_
+_Last updated: 9 November 2026_
 
 FI Pro is a financial-planning app for Android and iOS developed by
 Alpenlake Studio. This policy describes what data the app handles and
@@ -43,6 +43,9 @@ acting as our data processor under Art. 28 GDPR:
   It is not your name or email and not an advertising identifier. FI Pro
   does not collect the Android Advertising ID or Apple's advertising
   identifier (IDFA), shows no ads and shares no data with advertisers.
+- **Switched back on:** if you turn Diagnostics off and later allow it
+  again, the app records that you switched diagnostics back on after
+  turning them off. This is noted only after your new consent.
 - **Approximate region:** Google Analytics derives a general location
   (country, region, city) from your IP address. The IP address itself
   is not stored with it.
@@ -136,7 +139,7 @@ alpenlake.studio@gmail.com
 
 # Datenschutzerklärung — FI Pro
 
-_Stand: 7. November 2026_
+_Stand: 9. November 2026_
 
 FI Pro ist eine Finanzplanungs-App für Android und iOS von Alpenlake
 Studio. Diese Erklärung beschreibt, welche Daten die App verarbeitet.
@@ -181,6 +184,10 @@ Auftragsverarbeiter nach Art. 28 DSGVO übermittelt:
   Werbe-ID. FI Pro erhebt weder die Android-Werbe-ID noch Apples
   Werbe-ID (IDFA), zeigt keine Werbung und teilt keine Daten mit
   Werbetreibenden.
+- **Wieder eingeschaltet:** Wenn du die Diagnose ausschaltest und
+  später wieder erlaubst, erfasst die App, dass du die Diagnose nach
+  dem Ausschalten wieder eingeschaltet hast. Das wird erst nach deiner
+  neuen Einwilligung vermerkt.
 - **Ungefähre Region:** Google Analytics leitet aus deiner IP-Adresse
   einen ungefähren Standort ab (Land, Region, Stadt). Die IP-Adresse
   selbst wird nicht damit gespeichert.
